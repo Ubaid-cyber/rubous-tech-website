@@ -724,8 +724,8 @@ img, svg, i {
    MEDIA QUERIES (RESPONSIVE)
    ========================================= */
 @media (max-width: 992px) {
-    .hero {
-        padding-top: calc(var(--nav-height) + 40px);
+    .badge {
+        margin-top: 60px;
     }
     
     .hero-content {
